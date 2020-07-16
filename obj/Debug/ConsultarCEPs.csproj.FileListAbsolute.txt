@@ -1,0 +1,10 @@
+C:\Users\ewert\Documents\CSCHARP\PROJETOS\ConsultarCEPs\bin\Debug\ConsultarCEPs.exe.config
+C:\Users\ewert\Documents\CSCHARP\PROJETOS\ConsultarCEPs\bin\Debug\ConsultarCEPs.exe
+C:\Users\ewert\Documents\CSCHARP\PROJETOS\ConsultarCEPs\bin\Debug\ConsultarCEPs.pdb
+C:\Users\ewert\Documents\CSCHARP\PROJETOS\ConsultarCEPs\obj\Debug\ConsultarCEPs.csprojAssemblyReference.cache
+C:\Users\ewert\Documents\CSCHARP\PROJETOS\ConsultarCEPs\obj\Debug\ConsultarCEPs.Properties.Resources.resources
+C:\Users\ewert\Documents\CSCHARP\PROJETOS\ConsultarCEPs\obj\Debug\ConsultarCEPs.csproj.GenerateResource.cache
+C:\Users\ewert\Documents\CSCHARP\PROJETOS\ConsultarCEPs\obj\Debug\ConsultarCEPs.csproj.CoreCompileInputs.cache
+C:\Users\ewert\Documents\CSCHARP\PROJETOS\ConsultarCEPs\obj\Debug\ConsultarCEPs.exe
+C:\Users\ewert\Documents\CSCHARP\PROJETOS\ConsultarCEPs\obj\Debug\ConsultarCEPs.pdb
+C:\Users\ewert\Documents\CSCHARP\PROJETOS\ConsultarCEPs\obj\Debug\ConsultarCEPs.FmrConsultarCEPs.resources
